@@ -1,0 +1,40 @@
+.page-header {
+	padding-top: 20px;
+}
+
+/*comment form style*/
+.form-comment {
+		background-color: #efefef;
+		border: 1px solid #000;
+}
+
+.comment-media {
+	padding-top: 10px;
+}
+
+.donation {
+	padding: 10px 30px;
+}
+
+/*Pagination*/
+
+#pagination {
+	padding-top: 10px;
+}
+
+
+
+
+
+/*Footer Section*/
+#footer {
+	background-color: #fff;
+	padding: 7% 15%;
+	text-align: center;
+}
+
+.social-icon {
+	margin: 20px 10px;
+}
+
+
